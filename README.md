@@ -10,3 +10,8 @@ Watch tutorial on youtube
 Test this one because it failed
 
 ## Test global config message
+
+
+# Local development
+
+1.Open index.html in browser
